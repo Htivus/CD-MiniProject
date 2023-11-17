@@ -1,0 +1,9 @@
+int main()
+begin
+    int id =1; 
+    while ( n > 1 )
+        id = id + 1 ;
+        n = n / 2 ;
+    end while
+return id
+end
